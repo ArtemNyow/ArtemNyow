@@ -1,16 +1,97 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Artem 👋</h1>
 
-<!--
-**ArtemNyow/ArtemNyow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Full-Stack Developer • React • TypeScript • Next.js • Node.js • MongoDB</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/ArtemNyow">
+    <img src="https://komarev.com/ghpvc/?username=ArtemNyow&style=for-the-badge&color=blue" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👋 A bit about me
+
+I graduated from **Alfred Nobel University in Dnipro**, where I built a strong foundation in programming and analytical thinking.
+
+I work with **Next.js, React, TypeScript, Zustand, Axios, Node.js**, and constantly improve my skills — recently exploring Next.js 15, server actions, and performance optimization.
+
+Some facts about me:
+- 🚀 I like building fast, stable, and predictable apps  
+- 🔧 I enjoy refactoring and improving architecture  
+- 🧠 I handle complex logic without stress  
+- 💪 Code, games, life — trying to balance it all 😄  
+
+---
+
+## 🔧 Tech Stack
+
+### 🖥 Front-End
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![TS](https://skillicons.dev/icons?i=ts)
+![JS](https://skillicons.dev/icons?i=js)
+![Vite](https://skillicons.dev/icons?i=vite)
+![CSS](https://skillicons.dev/icons?i=css)
+
+### 🛠 Back-End
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### 🧰 Tools
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Postman](https://skillicons.dev/icons?i=postman)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 💼 My Projects
+
+### 🛍️ Clothica — Full-stack clothing store  
+Full e-commerce app with pagination, filters, order system, product search, and authentication.  
+**Tech:** Next.js, Node.js  
+🔗 Repo: https://github.com/ArtemNyow/Clothica-Go-IT-prod-team-2-Front  
+🔗 Live: https://clothica-go-it-prod-team-2-front.vercel.app/
+
+---
+
+### 📚 Booksy — Online Book Browsing & Demo Store  
+Team-built website for browsing and demo-purchasing books. Category filters, modals, sliders, shopping cart.  
+**Role:** Team Leader (GoIT Fullstack)  
+**Tech:** HTML5, CSS3, JavaScript, Vite, Swiper.js, Accordion.js, REST API  
+🔗 Repo: https://github.com/ArtemNyow/NovelWay  
+🔗 Live: https://artemnyow.github.io/NovelWay/
+
+---
+
+### 📊 BizMon — Business Project Monitoring Platform  
+A full-stack platform for monitoring and supporting business projects.  
+**Role:** Full-stack Developer  
+**Tech:** HTML, CSS, JavaScript, Node.js, Express, MongoDB  
+🔗 Repo: https://github.com/ArtemNyow/BizMon  
+🔗 Live: https://bizmon-nyow.onrender.com/
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArtemNyow&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemNyow&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect with me
+
+- Telegram: [t.me/ArtemNyow](https://t.me/ArtemNyow)  
+- LinkedIn: [linkedin.com/in/artem-lykhatskyi](https://www.linkedin.com/in/artem-lykhatskyi/)
+
+
+---
+
