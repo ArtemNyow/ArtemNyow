@@ -4,11 +4,6 @@
   <b>Full-Stack Developer • React • TypeScript • Next.js • Node.js • MongoDB</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ArtemNyow">
-    <img src="https://komarev.com/ghpvc/?username=ArtemNyow&style=for-the-badge&color=blue" />
-  </a>
-</p>
 
 ---
 
@@ -82,10 +77,10 @@ A full-stack platform for monitoring and supporting business projects.
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArtemNyow&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemNyow&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArtemNyow&theme=tokyonight"/>
 </p>
 
----
+
 
 ## 🌐 Connect with me
 
