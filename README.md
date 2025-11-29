@@ -76,9 +76,9 @@ A full-stack platform for monitoring and supporting business projects.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArtemNyow&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArtemNyow&theme=tokyonight"/>
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemNyow&theme=dracula" width="48%" />
+  </p>
+
 
 
 
