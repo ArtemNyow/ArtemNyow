@@ -84,9 +84,9 @@ A full-stack platform for monitoring and supporting business projects.
 
 ## 🌐 Connect with me
 
-- Telegram: [t.me/ArtemNyow](https://t.me/ArtemNyow)  
-- LinkedIn: [linkedin.com/in/artem-lykhatskyi](https://www.linkedin.com/in/artem-lykhatskyi/)
-
+-  [Telegram](https://t.me/ArtemNyow)  
+- [LinkedIn](https://www.linkedin.com/in/artem-lykhatskyi/)
+- [Переглянути моє резюме](https://drive.google.com/file/d/1MMn-q0scm1vwo4hwvlTokZnUer6G4-me/view?usp=sharing)
 
 ---
 
